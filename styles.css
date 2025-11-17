@@ -269,7 +269,7 @@ padding-top: 20px;
     max-width: 550px;
     z-index: 3;
     opacity:0;
-    transition: transform 450ms; opacity 300ms;
+    transition: transform 450ms, opacity 300ms;
 }
 
 .project__description--title {
